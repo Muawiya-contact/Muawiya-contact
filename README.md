@@ -20,7 +20,7 @@ I'm always open to collaborating on:
 
 ## 📫 How to Reach Me
 Feel free to connect with me here:
-- **Email:** muawiya.contact@gmail.com
+- **Email:** contactmuawia@gmail.com
 - **GitHub:** [@Muawiya-contact](https://github.com/Muawiya-contact)
 - **YouTube:** [Coding Moves](www.youtube.com/@Coding_Moves)
 
