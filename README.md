@@ -6,9 +6,10 @@ I aim to build innovative projects and share my knowledge with others.
 
 ## 🌱 Currently Learning
 I'm currently diving deeper into:
-- Python programming
+- Python programming (TensorFlow, PyTorch, Numpy)
 - Artificial Intelligence and Machine Learning
-- Web development (HTML, CSS, JavaScript)
+- Web development (HTML, CSS, JavaScript, React)
+- Java, C/C++, C Sharp
 - Mathematics for Computer Science
 
 ## 💞️ Collaboration
