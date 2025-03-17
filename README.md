@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Muawiya Amir
+# 👋 Hi, I’m Muawiya Amir
 
 ## 👀 About Me
 I'm passionate about coding, web development, and exploring the endless possibilities of technology.
