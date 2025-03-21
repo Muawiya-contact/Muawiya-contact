@@ -1,41 +1,36 @@
-# 👋 Hi, I’m Muawiya Amir
+👋 Hi, I’m Muawiya Amir
+👀 About Me
+I'm a passionate developer, AI enthusiast, and problem solver who loves to explore the endless possibilities of technology and coding. My goal is to build innovative projects and share my knowledge with the world.
 
-## 👀 About Me
-I'm passionate about coding, web development, and exploring the endless possibilities of technology.
-I aim to build innovative projects and share my knowledge with others.
+🌱 Currently Learning
+I'm continuously expanding my expertise in:
 
-## 🌱 Currently Learning
-I'm currently diving deeper into:
-- Python programming (TensorFlow, PyTorch, Numpy)
-- Artificial Intelligence and Machine Learning
-- Web development (HTML, CSS, JavaScript, React)
-- Java, C/C++, C Sharp
-- Mathematics for Computer Science
+Python & AI: TensorFlow, PyTorch, NumPy
+Machine Learning & Deep Learning
+Web Development: HTML, CSS, JavaScript, React
+Programming Languages: Java, C/C++, C#
+Mathematics for Computer Science
+💡 What I Do
+🚀 Develop AI-based applications
+💻 Create and contribute to open-source projects
+📚 Write educational content for aspiring programmers
+🎯 Solve complex math problems for fun!
 
-## 💞️ Collaboration
-I'm always open to collaborating on:
-- Open-source projects
-- Web development tools and libraries
-- AI-based applications and research
-- Educational content for aspiring programmers
+🤝 Let's Collaborate!
+I'm open to working on:
 
-## 📫 How to Reach Me
-Feel free to connect with me here:
-- **Email:** contactmuawia@gmail.com
-- **GitHub:** [@Muawiya-contact](https://github.com/Muawiya-contact)
-- **YouTube:** [Coding Moves](www.youtube.com/@Coding_Moves)
+Open-source projects
+AI & ML research
+Web development tools & libraries
+Educational programming content
+📫 Connect With Me
+📧 Email: contactmuawia@gmail.com
+🐙 GitHub: @Muawiya-contact
+📺 YouTube: Coding Moves
 
-## 😄 Pronouns
+😄 Pronouns
 He/Him
 
-## ⚡ Fun Fact
-I'm a Hafiz-e-Quran and a dedicated learner striving to balance my passion for technology with my faith.
-Also, I love solving challenging math problems for fun!
-
----
-
-<!---
-Muawiya-contact/Muawiya-contact is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+⚡ Fun Fact
+I'm a Hafiz-e-Quran and a lifelong learner who loves balancing technology with faith. Oh, and I enjoy cracking challenging math problems just for fun! 😃
 
