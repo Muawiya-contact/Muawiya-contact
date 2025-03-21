@@ -1,36 +1,41 @@
-👋 Hi, I’m Muawiya Amir
-👀 About Me
-I'm a passionate developer, AI enthusiast, and problem solver who loves to explore the endless possibilities of technology and coding. My goal is to build innovative projects and share my knowledge with the world.
+# 👋 Hi, I'm Muawiya Amir  
 
-🌱 Currently Learning
-I'm continuously expanding my expertise in:
+## 👀 About Me  
+I'm a passionate **programmer, web developer, and AI enthusiast** exploring the **endless possibilities of technology**.  
+My goal is to build **innovative projects** and **share knowledge** to empower others in the tech world.  
 
-Python & AI: TensorFlow, PyTorch, NumPy
-Machine Learning & Deep Learning
-Web Development: HTML, CSS, JavaScript, React
-Programming Languages: Java, C/C++, C#
-Mathematics for Computer Science
-💡 What I Do
-🚀 Develop AI-based applications
-💻 Create and contribute to open-source projects
-📚 Write educational content for aspiring programmers
-🎯 Solve complex math problems for fun!
+## 🌱 What I'm Learning  
+Currently diving deeper into:  
+🔹 **Python & AI** – TensorFlow, PyTorch, NumPy  
+🔹 **Machine Learning & Deep Learning**  
+🔹 **Web Development** – HTML, CSS, JavaScript, React  
+🔹 **Programming Languages** – Java, C/C++, C#  
+🔹 **Mathematics for Computer Science**  
 
-🤝 Let's Collaborate!
-I'm open to working on:
+## 💡 Collaboration & Projects  
+I'm always open to collaborating on:  
+🚀 **Open-source projects**  
+🛠 **Web development tools & libraries**  
+🤖 **AI-based applications & research**  
+📚 **Educational content for aspiring programmers**  
 
-Open-source projects
-AI & ML research
-Web development tools & libraries
-Educational programming content
-📫 Connect With Me
-📧 Email: contactmuawia@gmail.com
-🐙 GitHub: @Muawiya-contact
-📺 YouTube: Coding Moves
+## 📫 Let's Connect!  
+💌 **Email:** [contactmuawia@gmail.com](mailto:contactmuawia@gmail.com)  
+🐙 **GitHub:** [@Muawiya-contact](https://github.com/Muawiya-contact)  
+🎥 **YouTube:** [Coding Moves](https://www.youtube.com/@Coding_Moves)  
 
-😄 Pronouns
-He/Him
+## 😄 Fun Fact  
+I'm a **Hafiz-e-Quran** and a dedicated learner, balancing **faith** with my passion for technology.  
+Also, I enjoy solving **challenging math problems** just for fun! 🧠✨  
 
-⚡ Fun Fact
-I'm a Hafiz-e-Quran and a lifelong learner who loves balancing technology with faith. Oh, and I enjoy cracking challenging math problems just for fun! 😃
+---  
 
+🔹 **"The best way to learn is to build."**  
+🔹 **Let's create something amazing together!**  
+
+---
+
+<!---  
+Muawiya-contact/Muawiya-contact is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
+You can click the Preview link to take a look at your changes.  
+--->  
