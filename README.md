@@ -29,10 +29,7 @@ I'm a **Hafiz-e-Quran** and a dedicated learner, balancing **faith** with my pas
 Also, I enjoy solving **challenging math problems** just for fun! 🧠✨  
 
 ## 🏆 GitHub Achievements  
-![Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)  
-![Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png)  
-![Galaxy Brain](https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png)  
-
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100">
 ---  
 
 🔹 **"The best way to learn is to build."**  
