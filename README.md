@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muawiya Amir  
 
-## 👀 About Me  
+## 👀 About Me
 I'm a passionate **programmer, web developer, and AI enthusiast** exploring the **endless possibilities of technology**.  
 My goal is to build **innovative projects** and **share knowledge** to empower others in the tech world.  
 
@@ -27,6 +27,11 @@ I'm always open to collaborating on:
 ## 😄 Fun Fact  
 I'm a **Hafiz-e-Quran** and a dedicated learner, balancing **faith** with my passion for technology.  
 Also, I enjoy solving **challenging math problems** just for fun! 🧠✨  
+
+## 🏆 GitHub Achievements  
+![Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)  
+![Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png)  
+![Galaxy Brain](https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png)  
 
 ---  
 
