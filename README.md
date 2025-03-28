@@ -29,7 +29,7 @@ I'm a **Hafiz-e-Quran** and a dedicated learner, balancing **faith** with my pas
 Also, I enjoy solving **challenging math problems** just for fun! 🧠✨  
 
 ## 🏆 GitHub Achievements  
-<a href="https://github.com/users/Muawiya-contact/achievements/pull-shark" <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100"> >
+<a href="https://github.com/users/Muawiya-contact/achievements/pull-shark"> <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100"> </a>
 ---  
 
 🔹 **"The best way to learn is to build."**  
