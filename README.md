@@ -22,9 +22,9 @@ I'm always open to collaborating on:
 ## 📫 Let's Connect!  
 💌 **Email:** [contactmuawia@gmail.com](mailto:contactmuawia@gmail.com)  
 🐙 **GitHub:** [@Muawiya-contact](https://github.com/Muawiya-contact)  
-🎥 **YouTube:** [Coding Moves](https://www.youtube.com/@Coding_Moves)  
-💻 **LeetCode:** [@Muawiya](https://leetcode.com/u/Moavia_Amir/)  
-📊 **Kaggle:** [@Muawiya](https://www.kaggle.com/)
+🎥 **YouTube:** [@Coding Moves](https://www.youtube.com/@Coding_Moves)  
+💻 **LeetCode:** [Moavia_Amir](https://leetcode.com/u/Moavia_Amir/)  
+📊 **Kaggle:** [Moavia Amir](https://www.kaggle.com/)
 
 
 ## 😄 Fun Fact  
