@@ -9,7 +9,7 @@ Currently diving deeper into:
 🔹 **Python & AI** – TensorFlow, PyTorch, NumPy  
 🔹 **Machine Learning & Deep Learning**  
 🔹 **Web Development** – HTML, CSS, JavaScript, React  
-🔹 **Programming Languages** – Java, C/C++, C#  
+🔹 **Programming Languages** – Python,Java, C/C++, C#  
 🔹 **Mathematics for Computer Science**  
 
 ## 💡 Collaboration & Projects  
