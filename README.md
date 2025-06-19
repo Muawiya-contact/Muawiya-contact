@@ -60,6 +60,15 @@ I also enjoy solving **challenging math problems** just for fun! 🧠✨
 
 ---
 
+
+## 📜 Certifications
+
+- 🧠 [Intro to Machine Learning – Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning)  
+  *Issued on June 19, 2025 by Kaggle Learn*  
+  *Covered decision trees, model validation, overfitting, and random forests.*
+
+<img src="https://raw.githubusercontent.com/Muawiya-contact/certificates/main/Kaggle-Intro-ML.png" width="500"/>
+---
 ## 🏆 GitHub Achievements
 
 <a href="https://github.com/users/Muawiya-contact/achievements/pull-shark">
