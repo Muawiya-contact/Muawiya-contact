@@ -33,7 +33,6 @@ I'm always open to collaborating on:
 
 ## 📌 Featured Projects
 
-<!-- Replace or update the below with your real/pinned projects -->
 - [**Awesome-AI-Toolkit**](https://github.com/Muawiya-contact/Awesome-AI-Toolkit):  
   _A curated collection of AI tools and resources for beginners and pros alike._
 - [**WebDev-Templates**](https://github.com/Muawiya-contact/WebDev-Templates):  
@@ -60,7 +59,6 @@ I also enjoy solving **challenging math problems** just for fun! 🧠✨
 
 ---
 
-
 ## 📜 Certifications
 
 - 🧠 [Intro to Machine Learning – Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning)  
@@ -68,7 +66,9 @@ I also enjoy solving **challenging math problems** just for fun! 🧠✨
   *Covered decision trees, model validation, overfitting, and random forests.*
 
 <img src="https://raw.githubusercontent.com/Muawiya-contact/certificates/main/Kaggle-Intro-ML.png" width="500"/>
+
 ---
+
 ## 🏆 GitHub Achievements
 
 <a href="https://github.com/users/Muawiya-contact/achievements/pull-shark">
