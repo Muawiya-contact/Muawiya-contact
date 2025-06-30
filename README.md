@@ -51,7 +51,14 @@ I'm always open to collaborating on:
 [![Kaggle](https://img.shields.io/badge/Kaggle-Moavia%20Amir-blue?style=flat&logo=kaggle)](https://www.kaggle.com/moaviaamir)
 
 ---
+## 🏅 LeetCode Badges
 
+### June 2025 Daily Challenge Badge
+![LeetCode June Badge](https://leetcode.com/static/images/badges/dcc-2025-6.png)
+
+Achieved for solving LeetCode Daily Challenges consistently throughout June 2025!
+
+---
 ## 😄 Fun Fact
 
 I'm a **Hafiz-e-Quran** and a dedicated learner, balancing **faith** with my passion for technology.  
