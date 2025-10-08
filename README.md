@@ -1,13 +1,34 @@
 # 👋 Hi, I'm Muawiya Amir
 
-![Profile views](https://komarev.com/ghpvc/?username=Muawiya-contact&color=blue)  
+![Profile views](https://komarev.com/ghpvc/?username=Muawiya-contact&color=blue)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Muawiya-contact&theme=algolia)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muawiya-contact&layout=compact&theme=algolia)
+![Muawiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muawiya-contact&show_icons=true&theme=algolia)
+[![Muawiya's Pull Requests](https://img.shields.io/badge/PRs%20Submitted-100%2B-blue?style=flat&logo=github)](https://github.com/search?q=author%3AMuawiya-contact+is%3Apr)
 
 ---
 
 ## 👀 About Me
+
 I'm a passionate **programmer, web developer, and AI enthusiast** exploring the **endless possibilities of technology**.  
 My goal is to build **innovative projects** and **share knowledge** to empower others in the tech world.
+
+- 🚩 **Achievements Unlocked:**  
+  - ⭐ Over 100+ pull requests submitted  
+  - 🥇 Maintainer of high-impact open-source projects  
+  - 🎓 Kaggle Machine Learning Certified  
+  - 🏆 GitHub "Pull Shark" & other achievements  
+  - ⏳ Maintained a strong streak of daily contributions
+
+---
+
+## 🚀 New Features
+
+- 🔥 **Live GitHub Contribution Streak (Daily)**
+- 🏅 **Dynamic Achievements Showcase**
+- 🎬 **Featured YouTube Channel: [Coding Moves](https://www.youtube.com/@Coding_Moves)**
+- 📊 **Tech Stack Badges & Stats**
+- 📝 **PR & Issue Tracker**
 
 ---
 
@@ -51,10 +72,18 @@ I'm always open to collaborating on:
 [![Kaggle](https://img.shields.io/badge/Kaggle-Moavia%20Amir-blue?style=flat&logo=kaggle)](https://www.kaggle.com/moaviaamir)
 
 ---
-## 😄 Fun Fact
 
-I'm a **Hafiz-e-Quran** and a dedicated learner, balancing **faith** with my passion for technology.  
-I also enjoy solving **challenging math problems** just for fun! 🧠✨
+## 🏆 GitHub Achievements
+
+<a href="https://github.com/users/Muawiya-contact/achievements/pull-shark">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100">
+</a>
+<a href="https://github.com/users/Muawiya-contact/achievements/yolo">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="100">
+</a>
+<a href="https://github.com/users/Muawiya-contact/achievements/arctic-code-vault-contributor">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="100">
+</a>
 
 ---
 
@@ -68,11 +97,10 @@ I also enjoy solving **challenging math problems** just for fun! 🧠✨
 
 ---
 
-## 🏆 GitHub Achievements
+## 😄 Fun Fact
 
-<a href="https://github.com/users/Muawiya-contact/achievements/pull-shark">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100">
-</a>
+I'm a **Hafiz-e-Quran** and a dedicated learner, balancing **faith** with my passion for technology.  
+I also enjoy solving **challenging math problems** just for fun! 🧠✨
 
 ---
 
@@ -84,4 +112,4 @@ I also enjoy solving **challenging math problems** just for fun! 🧠✨
 <!---
 Muawiya-contact/Muawiya-contact is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+-->
