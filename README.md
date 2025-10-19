@@ -1,102 +1,80 @@
-# 👋 Hi, I'm Muawiya Amir
+# 👋 Muawiya Amir — ML Engineer
 
-![Profile views](https://komarev.com/ghpvc/?username=Muawiya-contact&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=Muawiya-contact&color=green)<br>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Muawiya-contact&theme=algolia)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muawiya-contact&layout=compact&theme=algolia)
-![Muawiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muawiya-contact&show_icons=true&theme=algolia)
-[![Muawiya's Pull Requests](https://img.shields.io/badge/PRs%20Submitted-100%2B-blue?style=flat&logo=github)](https://github.com/search?q=author%3AMuawiya-contact+is%3Apr)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muawiya-contact&show_icons=true&theme=algolia)
 
 ---
 
-## 👀 About Me
+## 🧭 Mission
 
-I'm a passionate **programmer, web developer, and AI enthusiast** exploring the **endless possibilities of technology**.  
-My goal is to build **innovative projects** and **share knowledge** to empower others in the tech world.
-
-- 🚩 **Achievements Unlocked:**  
-  - ⭐ Over 100+ pull requests submitted  
-  - 🥇 Maintainer of high-impact open-source projects  
-  - 🎓 Kaggle Machine Learning Certified  
-  - 🏆 GitHub "Pull Shark" & other achievements  
-  - ⏳ Maintained a strong streak of daily contributions
+To build intelligent, scalable, and accessible software that empowers developers, educates learners, and solves real-world problems.
 
 ---
 
-## 🚀 New Features
+## 🏅 Highlights
 
-- 🔥 **Live GitHub Contribution Streak (Daily)**
-- 🏅 **Dynamic Achievements Showcase**
-- 🎬 **Featured YouTube Channel: [Coding Moves](https://www.youtube.com/@Coding_Moves)**
-- 📊 **Tech Stack Badges & Stats**
-- 📝 **PR & Issue Tracker**
-
----
-
-## 🌱 Currently Learning
-
-- 🧠 **Python & AI**: TensorFlow, PyTorch, NumPy
-- 🤖 **Machine Learning & Deep Learning**
-- 🌐 **Web Development**: HTML, CSS, JavaScript, React
-- 💻 **Programming Languages**: Python, Java, C/C++, C#
-- 📐 **Mathematics for Computer Science**
+- 🧠 Built and deployed AI-powered web apps with real user engagement
+- 🛠 Maintainer of open-source tools used by startups and dev communities
+- 🎓 Kaggle Machine Learning Certified with 1K+ notebook views
+- 📈 Grew [Coding Moves](https://www.youtube.com/@Coding_Moves) to 1K+ subscribers organically
+- 🧑‍🏫 Mentored junior developers via GitHub, YouTube, and Discord
+- 🥇 GitHub Achievements: Pull Shark, YOLO, Quickdraw, Arctic Code Vault
 
 ---
 
-## 💡 Collaboration & Projects
+## 🧰 Tech Stack
 
-I'm always open to collaborating on:
-- 🚀 **Open-source projects**
-- 🛠 **Web development tools & libraries**
-- 🤖 **AI-based applications & research**
-- 📚 **Educational content for aspiring programmers**
+| Domain             | Tools & Technologies                                      |
+|--------------------|-----------------------------------------------------------|
+| Languages          | Python, JavaScript, C++, Java, C#                         |
+| Web Development    | HTML, CSS, React, Node.js                                 |
+| AI/ML              | TensorFlow, PyTorch, NumPy, Scikit-learn                  |
+| DevOps             | Git, Docker, GitHub Actions                               |
+| Math & Algorithms  | Linear Algebra, Probability, Optimization                 |
 
 ---
 
 ## 📌 Featured Projects
 
-- [**Awesome-AI-Toolkit**](https://github.com/Muawiya-contact/Awesome-AI-Toolkit):  
-  _A curated collection of AI tools and resources for beginners and pros alike._
-- [**WebDev-Templates**](https://github.com/Muawiya-contact/WebDev-Templates):  
-  _Reusable and responsive web development templates for rapid prototyping._
-- [**Coding-Moves-YouTube**](https://www.youtube.com/@Coding_Moves):  
-  _Educational videos and tutorials on programming and AI._
+- [Awesome-AI-Toolkit](https://github.com/Muawiya-contact/Awesome-AI-Toolkit)  
+  _Curated AI tools and resources for developers and researchers._
 
----
+- [WebDev-Templates](https://github.com/Muawiya-contact/WebDev-Templates)  
+  _Responsive templates for rapid web development and prototyping._
 
-## 📫 Let's Connect!
-
-[![Gmail](https://img.shields.io/badge/email-contactmuawia@gmail.com-red?style=flat&logo=gmail)](mailto:contactmuawia@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%40Muawiya--contact-181717?style=flat&logo=github)](https://github.com/Muawiya-contact)
-[![YouTube](https://img.shields.io/badge/YouTube-Coding%20Moves-FF0000?style=flat&logo=youtube)](https://www.youtube.com/@Coding_Moves)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Moavia_Amir-orange?style=flat&logo=leetcode)](https://leetcode.com/u/Moavia_Amir/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Moavia%20Amir-blue?style=flat&logo=kaggle)](https://www.kaggle.com/moaviaamir)
+- [Coding Moves – YouTube](https://www.youtube.com/@Coding_Moves)  
+  _Educational content focused on programming, AI, and developer productivity._
 
 ---
 
 ## 🏆 GitHub Achievements
 
-<a href="https://github.com/users/Muawiya-contact/achievements/pull-shark">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100">
+<div align="center">
+
+<a href="https://github.com/Muawiya-contact?achievement=pull-shark&tab=achievements">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" alt="Pull Shark">
 </a>
-<a href="https://github.com/users/Muawiya-contact/achievements/yolo">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="100">
+<a href="https://github.com/Muawiya-contact?achievement=yolo&tab=achievements">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="100" alt="YOLO">
 </a>
-<a href="https://github.com/users/Muawiya-contact/achievements/arctic-code-vault-contributor">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="100">
+<a href="https://github.githubassets.com/assets/quickdraw-default--light-medium-5450fadcbe37.png">
+  <img src="https://github.githubassets.com/assets/quickdraw-default--light-medium-5450fadcbe37.png" width="100" alt="Quickdraw">
 </a>
+
+</div>
 
 ---
 
 ## 📜 Certifications
 
 - 🧠 [Intro to Machine Learning – Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning)  
-  *Issued on June 19, 2025 by Kaggle Learn*  
-  *Covered decision trees, model validation, overfitting, and random forests.*
+  *Issued: June 19, 2025*  
+  *Topics: Decision Trees, Model Validation, Overfitting, Random Forests*
 
 <img src="https://raw.githubusercontent.com/Muawiya-contact/certificates/main/Kaggle-Intro-ML.png" width="500"/>
 
 ---
-
 ## 😄 Fun Fact
 
 I'm a **Hafiz-e-Quran** and a dedicated learner, balancing **faith** with my passion for technology.  
