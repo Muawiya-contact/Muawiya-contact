@@ -15,6 +15,7 @@ To build intelligent, scalable, and accessible software that empowers developers
 ## 🏅 Highlights
 
 - 🧠 Built and deployed AI-powered web apps with real user engagement
+
 - 🛠 Maintainer of open-source tools used by startups and dev communities
 - 🎓 Kaggle Machine Learning Certified with 1K+ notebook views
 - 📈 Grew [Coding Moves](https://www.youtube.com/@Coding_Moves)  subscribers organically
