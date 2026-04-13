@@ -4,6 +4,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Muawiya-contact&theme=algolia)](https://git.io/streak-stats)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Muawiya-contact&theme=algolia)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Muawiya-contact&show_icons=true&theme=algolia)
 ---
 
 ## Mission
