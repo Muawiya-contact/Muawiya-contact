@@ -3,8 +3,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=Muawiya-contact&color=green)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Muawiya-contact&theme=algolia)](https://git.io/streak-stats)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muawiya-contact&show_icons=true&theme=algolia)
-
+![Trophies](https://github-profile-trophy.vercel.app/?username=Muawiya-contact&theme=algolia)
 ---
 
 ## Mission
