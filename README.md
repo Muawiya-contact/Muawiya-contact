@@ -48,20 +48,24 @@ To build intelligent, scalable, and accessible software that empowers developers
 
 ---
 
-## GitHub Achievements
+## Open Source
 
-<div align="center">
-  <a href="https://github.com/Muawiya-contact?achievement=pull-shark&tab=achievements">
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" alt="Pull Shark">
-  </a>
-  <a href="https://github.com/Muawiya-contact?achievement=yolo&tab=achievements">
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="100" alt="YOLO">
-  </a>
-  <a href="https://github.githubassets.com/assets/quickdraw-default--light-medium-5450fadcbe37.png">
-    <img src="https://github.githubassets.com/assets/quickdraw-default--light-medium-5450fadcbe37.png" width="100" alt="Quickdraw">
-  </a>
-</div>
+### drt-hub (Data Replication Tool)
+- **Triage Collaborator** — promoted after consistent high-quality contributions
+- Contributed across core areas including connectors, validation, CLI, and engine features
+- Actively involved in issue triage, PR reviews, and maintaining project quality
+- Collaborating with maintainers on feature design and improvements
 
+#### 🔗 Selected Contributions
+- [Add Jira connector with create/update support](https://github.com/drt-hub/drt/pull/236)  
+- [Implement connector registry for auto-discovery](https://github.com/drt-hub/drt/pull/380)  
+- [Add JSON Schema validation infrastructure](https://github.com/drt-hub/drt/pull/356)  
+- [Add test validators (freshness, unique, accepted_values)](https://github.com/drt-hub/drt/pull/357)  
+- [Add dry-run row count diff for replace mode](https://github.com/drt-hub/drt/pull/361)  
+
+> More contributions: https://github.com/drt-hub/drt/pulls?q=is%3Apr+author%3AMuawiya-contact
+
+---
 ---
 ## 😄 Fun Fact
 
