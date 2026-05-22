@@ -1,4 +1,4 @@
-# Muawiya Amir — AI Student | Open Source & ML
+# Muawiya Amir — Machine Learning & Data Infrastructure Engineer
 
 ![Profile views](https://komarev.com/ghpvc/?username=Muawiya-contact&color=green)
 
