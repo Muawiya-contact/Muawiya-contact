@@ -1,4 +1,6 @@
-# Muawiya Amir — Machine Learning & Data Infrastructure Engineer
+# Muawiya Amir
+
+### Machine Learning & Data Infrastructure Engineer
 
 ![Profile views](https://komarev.com/ghpvc/?username=Muawiya-contact&color=green)
 
