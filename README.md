@@ -13,16 +13,6 @@ To build intelligent, scalable, and accessible software that empowers developers
 
 ---
 
-## Highlights
-
-- Built and deployed AI-powered web apps with real user engagement
-- Maintainer of open-source tools used by startups and dev communities
-- Kaggle Machine Learning Certified with 1K+ notebook views
-- Mentored junior developers via GitHub, YouTube, and Discord
-- GitHub Achievements: Pull Shark, YOLO, Quickdraw, Arctic Code Vault
-
----
-
 ## Tech Stack
 
 | Domain              | Tools & Technologies                                 |
@@ -32,19 +22,6 @@ To build intelligent, scalable, and accessible software that empowers developers
 | AI/ML               | TensorFlow, PyTorch, NumPy, Scikit-learn             |
 | DevOps              | Git, Docker, GitHub Actions                          |
 | Math & Algorithms   | Linear Algebra, Probability, Optimization            |
-
----
-
-## Featured Projects
-
-- [Awesome-AI-Toolkit](https://github.com/Muawiya-contact/Awesome-AI-Toolkit)  
-  Curated AI tools and resources for developers and researchers.
-
-- [WebDev-Templates](https://github.com/Muawiya-contact/WebDev-Templates)  
-  Responsive templates for rapid web development and prototyping.
-
-- [Coding Moves – YouTube](https://www.youtube.com/@Coding_Moves)  
-  Educational content focused on programming, AI, and developer productivity.
 
 ---
 
