@@ -30,7 +30,6 @@ To build intelligent, scalable, and accessible software that empowers developers
 ### drt-hub (Data Replication Tool)
 - **Triage Collaborator** — promoted after consistent high-quality contributions
 - Contributed across core areas including connectors, validation, CLI, and engine features
-- Actively involved in issue triage, PR reviews, and maintaining project quality
 - Collaborating with maintainers on feature design and improvements
 
 #### 🔗 Selected Contributions
