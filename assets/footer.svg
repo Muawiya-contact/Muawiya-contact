@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="160" viewBox="0 0 1200 160">
+<style>
+  .star { fill:#93c5fd; animation:tw 4s ease-in-out infinite }
+  @keyframes tw { 0%,100% { opacity:.15 } 50% { opacity:.8 } }
+  .w1 { fill:#1d4ed8; opacity:.35; animation:slide 14s linear infinite }
+  .w2 { fill:#3b82f6; opacity:.30; animation:slide 9s linear infinite reverse }
+  .w3 { fill:#0a1d42; opacity:.95; animation:slide 18s linear infinite }
+  .q { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; font-size:20px; font-weight:700; fill:url(#qt) }
+  .s { font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; font-size:13px; fill:#7c93c3 }
+  @keyframes slide { to { transform:translateX(-1200px) } }
+  @media (prefers-reduced-motion: reduce) { * { animation-duration:.01s !important; animation-iteration-count:1 !important } }
+</style>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#040a18"/><stop offset="1" stop-color="#0a1d42"/></linearGradient>
+  <linearGradient id="line" x1="0" x2="1"><stop offset="0" stop-color="#1d4ed8"/><stop offset=".5" stop-color="#60a5fa"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#93c5fd" opacity=".07"/></pattern>
+  <linearGradient id="qt" x1="0" x2="1"><stop offset="0" stop-color="#93c5fd"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+  <clipPath id="c"><rect width="1200" height="160" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#c)">
+  <rect width="1200" height="160" fill="#040a18"/>
+  <circle class="star" cx="887" cy="28" r="0.8" style="animation-delay:2.42s;animation-duration:2.74s"/><circle class="star" cx="951" cy="23" r="0.6" style="animation-delay:3.21s;animation-duration:4.26s"/><circle class="star" cx="1033" cy="44" r="1.3" style="animation-delay:2.28s;animation-duration:2.98s"/><circle class="star" cx="702" cy="24" r="1" style="animation-delay:1.12s;animation-duration:2.79s"/><circle class="star" cx="892" cy="11" r="1.3" style="animation-delay:0.53s;animation-duration:3.32s"/><circle class="star" cx="647" cy="26" r="1.3" style="animation-delay:3.06s;animation-duration:3.51s"/><circle class="star" cx="867" cy="5" r="1" style="animation-delay:1.21s;animation-duration:2.75s"/><circle class="star" cx="1066" cy="69" r="0.6" style="animation-delay:0.93s;animation-duration:4.86s"/><circle class="star" cx="799" cy="24" r="1.3" style="animation-delay:2.28s;animation-duration:3.83s"/><circle class="star" cx="468" cy="70" r="0.8" style="animation-delay:2.81s;animation-duration:4.40s"/><circle class="star" cx="1176" cy="2" r="0.6" style="animation-delay:2.96s;animation-duration:3.14s"/><circle class="star" cx="482" cy="4" r="0.8" style="animation-delay:2.59s;animation-duration:2.53s"/><circle class="star" cx="310" cy="19" r="1" style="animation-delay:2.20s;animation-duration:3.77s"/><circle class="star" cx="1161" cy="40" r="0.6" style="animation-delay:2.55s;animation-duration:4.52s"/><circle class="star" cx="91" cy="42" r="0.6" style="animation-delay:1.55s;animation-duration:4.85s"/><circle class="star" cx="463" cy="68" r="1.3" style="animation-delay:2.17s;animation-duration:3.99s"/><circle class="star" cx="515" cy="35" r="1" style="animation-delay:2.11s;animation-duration:3.99s"/><circle class="star" cx="439" cy="20" r="1" style="animation-delay:2.24s;animation-duration:3.21s"/><circle class="star" cx="860" cy="21" r="0.6" style="animation-delay:3.09s;animation-duration:3.96s"/><circle class="star" cx="760" cy="29" r="1.3" style="animation-delay:0.21s;animation-duration:3.29s"/><circle class="star" cx="477" cy="41" r="1" style="animation-delay:0.29s;animation-duration:4.76s"/><circle class="star" cx="515" cy="33" r="0.8" style="animation-delay:0.18s;animation-duration:2.75s"/><circle class="star" cx="972" cy="64" r="0.8" style="animation-delay:3.92s;animation-duration:4.54s"/><circle class="star" cx="724" cy="8" r="1.3" style="animation-delay:1.82s;animation-duration:3.01s"/><circle class="star" cx="62" cy="37" r="0.6" style="animation-delay:1.45s;animation-duration:2.85s"/>
+  <path class="w1" d="M0 92 Q 75.0 78 150.0 92 Q 225.0 106 300.0 92 Q 375.0 78 450.0 92 Q 525.0 106 600.0 92 Q 675.0 78 750.0 92 Q 825.0 106 900.0 92 Q 975.0 78 1050.0 92 Q 1125.0 106 1200.0 92 Q 1275.0 78 1350.0 92 Q 1425.0 106 1500.0 92 Q 1575.0 78 1650.0 92 Q 1725.0 106 1800.0 92 Q 1875.0 78 1950.0 92 Q 2025.0 106 2100.0 92 Q 2175.0 78 2250.0 92 Q 2325.0 106 2400.0 92 L 2400 160 L 0 160 Z"/>
+  <path class="w2" d="M0 104 Q 100.0 94 200.0 104 Q 300.0 114 400.0 104 Q 500.0 94 600.0 104 Q 700.0 114 800.0 104 Q 900.0 94 1000.0 104 Q 1100.0 114 1200.0 104 Q 1300.0 94 1400.0 104 Q 1500.0 114 1600.0 104 Q 1700.0 94 1800.0 104 Q 1900.0 114 2000.0 104 Q 2100.0 94 2200.0 104 Q 2300.0 114 2400.0 104 L 2400 160 L 0 160 Z"/>
+  <path class="w3" d="M0 118 Q 150.0 110 300.0 118 Q 450.0 126 600.0 118 Q 750.0 110 900.0 118 Q 1050.0 126 1200.0 118 Q 1350.0 110 1500.0 118 Q 1650.0 126 1800.0 118 Q 1950.0 110 2100.0 118 Q 2250.0 126 2400.0 118 L 2400 160 L 0 160 Z"/>
+  <text class="q" x="600" y="54" text-anchor="middle">"The best way to learn is to build."</text>
+  <text class="s" x="600" y="146" text-anchor="middle">let's build something amazing together</text>
+</g>
+</svg>
