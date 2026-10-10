@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="230" viewBox="0 0 590 230">
+<style>
+  .card { fill:#081430; stroke:#1b3466 }
+  .ct { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; font-size:24px; font-weight:800; fill:#dbeafe }
+  .cd { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; font-size:14px; fill:#7c93c3 }
+  .tag rect { fill:#0b1a3a; stroke:#1b3466 }
+  .tag text { font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; font-size:12px; fill:#93c5fd }
+  .go { font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; font-size:13px; fill:#22d3ee }
+  .arrow { animation:nudge 1.4s ease-in-out infinite }
+  @keyframes nudge { 50% { transform:translateX(5px) } }
+  .bub { opacity:0; animation:chat 8s ease-out infinite }
+  .me rect { fill:#1d4ed8 } .bot rect { fill:#13244a; stroke:#1b3466 }
+  .bub text { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; font-size:13px; fill:#dbeafe }
+  .ty circle { fill:#93c5fd; animation:ty 1s ease-in-out infinite }
+  .ty { opacity:0; animation:typ 8s linear infinite }
+  @keyframes chat { 0% { opacity:0; transform:translateY(8px) } 6%,88% { opacity:1; transform:none } 96%,100% { opacity:0 } }
+  @keyframes typ { 0%,24% { opacity:0 } 26%,44% { opacity:1 } 46%,100% { opacity:0 } }
+  @keyframes ty { 50% { transform:translateY(-4px); opacity:.4 } }
+  @media (prefers-reduced-motion: reduce) { * { animation-duration:.01s !important; animation-iteration-count:1 !important } }
+</style>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#040a18"/><stop offset="1" stop-color="#0a1d42"/></linearGradient>
+  <linearGradient id="line" x1="0" x2="1"><stop offset="0" stop-color="#1d4ed8"/><stop offset=".5" stop-color="#60a5fa"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#93c5fd" opacity=".07"/></pattern></defs>
+<rect class="card" x=".5" y=".5" width="589" height="229" rx="16"/>
+<text class="ct" x="28" y="52">🇵🇰 Numainda</text>
+<text class="cd" x="28" y="84">Helps citizens learn Pakistan's</text>
+<text class="cd" x="28" y="104">constitution and rights through</text>
+<text class="cd" x="28" y="124">natural conversations.</text>
+<g class="tag"><rect x="28" y="146" width="73" height="24" rx="12"/><text x="65" y="162" text-anchor="middle">Next.js</text></g><g class="tag"><rect x="109.19999999999999" y="146" width="73" height="24" rx="12"/><text x="146" y="162" text-anchor="middle">AI chat</text></g><g class="tag"><rect x="190.39999999999998" y="146" width="96" height="24" rx="12"/><text x="238" y="162" text-anchor="middle">civic tech</text></g>
+<text class="go" x="28" y="206">view my PRs <tspan class="arrow">→</tspan></text>
+<g class="bub me" style="animation-delay:0s"><rect x="372" y="30" width="190" height="34" rx="14"/><text x="386" y="52">What are my basic rights?</text></g>
+<g class="ty" style="animation-delay:0s"><rect x="340" y="80" width="56" height="30" rx="14" fill="#13244a" stroke="#1b3466"/>
+  <circle cx="356" cy="95" r="3.5"/><circle cx="368" cy="95" r="3.5" style="animation-delay:.15s"/><circle cx="380" cy="95" r="3.5" style="animation-delay:.3s"/></g>
+<g class="bub bot" style="animation-delay:3.6s"><rect x="340" y="80" width="222" height="56" rx="14"/><text x="354" y="102">Articles 8–28 list your</text><text x="354" y="122">fundamental rights. 📜</text></g>
+<g class="bub me" style="animation-delay:5.2s"><rect x="452" y="152" width="110" height="34" rx="14"/><text x="466" y="174">Thanks! 🙌</text></g>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="230" viewBox="0 0 590 230">
+<style>
+  .card { fill:#081430; stroke:#1b3466 }
+  .ct { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; font-size:24px; font-weight:800; fill:#dbeafe }
+  .cd { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; font-size:14px; fill:#7c93c3 }
+  .tag rect { fill:#0b1a3a; stroke:#1b3466 }
+  .tag text { font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; font-size:12px; fill:#93c5fd }
+  .go { font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; font-size:13px; fill:#22d3ee }
+  .arrow { animation:nudge 1.4s ease-in-out infinite }
+  @keyframes nudge { 50% { transform:translateX(5px) } }
+  .e { stroke:#1b3466; stroke-width:2; animation:edge 4.4s ease-in-out infinite }
+  .n { fill:#3b82f6; filter:url(#glow); transform-box:fill-box; transform-origin:center; animation:node 2.8s ease-in-out infinite }
+  @keyframes edge { 0%,100% { stroke:#1b3466 } 15% { stroke:#22d3ee } 35% { stroke:#1b3466 } }
+  @keyframes node { 0%,100% { transform:scale(1); fill:#3b82f6 } 50% { transform:scale(1.3); fill:#22d3ee } }
+  @media (prefers-reduced-motion: reduce) { * { animation-duration:.01s !important; animation-iteration-count:1 !important } }
+</style>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#040a18"/><stop offset="1" stop-color="#0a1d42"/></linearGradient>
+  <linearGradient id="line" x1="0" x2="1"><stop offset="0" stop-color="#1d4ed8"/><stop offset=".5" stop-color="#60a5fa"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#93c5fd" opacity=".07"/></pattern></defs>
+<rect class="card" x=".5" y=".5" width="589" height="229" rx="16"/>
+<text class="ct" x="28" y="52">🕸️ Apache HugeGraph-AI</text>
+<text class="cd" x="28" y="84">HugeGraph + AI/LLM and GraphRAG.</text>
+<text class="cd" x="28" y="104">An Apache Software Foundation</text>
+<text class="cd" x="28" y="124">project. I contribute PRs here.</text>
+<g class="tag"><rect x="28" y="146" width="66" height="24" rx="12"/><text x="61" y="162" text-anchor="middle">Python</text></g><g class="tag"><rect x="101.6" y="146" width="43" height="24" rx="12"/><text x="123" y="162" text-anchor="middle">LLM</text></g><g class="tag"><rect x="152.39999999999998" y="146" width="81" height="24" rx="12"/><text x="193" y="162" text-anchor="middle">GraphRAG</text></g>
+<text class="go" x="28" y="206">view my PRs <tspan class="arrow">→</tspan></text>
+<line class="e" x1="420" y1="60" x2="500" y2="40" style="animation-delay:0.0s"/><line class="e" x1="500" y1="40" x2="560" y2="92" style="animation-delay:0.3s"/><line class="e" x1="420" y1="60" x2="470" y2="120" style="animation-delay:0.6s"/><line class="e" x1="500" y1="40" x2="470" y2="120" style="animation-delay:0.9s"/><line class="e" x1="470" y1="120" x2="560" y2="92" style="animation-delay:1.2s"/><line class="e" x1="470" y1="120" x2="392" y2="140" style="animation-delay:1.5s"/><line class="e" x1="560" y1="92" x2="540" y2="170" style="animation-delay:1.8s"/><line class="e" x1="470" y1="120" x2="450" y2="190" style="animation-delay:2.1s"/><line class="e" x1="392" y1="140" x2="450" y2="190" style="animation-delay:2.4s"/><line class="e" x1="540" y1="170" x2="450" y2="190" style="animation-delay:2.7s"/><line class="e" x1="420" y1="60" x2="392" y2="140" style="animation-delay:3.0s"/><circle class="n" cx="420" cy="60" r="6" style="animation-delay:0.0s"/><circle class="n" cx="500" cy="40" r="6" style="animation-delay:0.4s"/><circle class="n" cx="560" cy="92" r="6" style="animation-delay:0.8s"/><circle class="n" cx="470" cy="120" r="9" style="animation-delay:1.2s"/><circle class="n" cx="392" cy="140" r="6" style="animation-delay:1.6s"/><circle class="n" cx="540" cy="170" r="6" style="animation-delay:2.0s"/><circle class="n" cx="450" cy="190" r="6" style="animation-delay:2.4s"/>
+</svg>

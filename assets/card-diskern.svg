@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="230" viewBox="0 0 590 230">
+<style>
+  .card { fill:#081430; stroke:#1b3466 }
+  .ct { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; font-size:24px; font-weight:800; fill:#dbeafe }
+  .cd { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; font-size:14px; fill:#7c93c3 }
+  .tag rect { fill:#0b1a3a; stroke:#1b3466 }
+  .tag text { font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; font-size:12px; fill:#93c5fd }
+  .go { font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; font-size:13px; fill:#22d3ee }
+  .arrow { animation:nudge 1.4s ease-in-out infinite }
+  @keyframes nudge { 50% { transform:translateX(5px) } }
+  .bar { fill:url(#barG); transform-box:fill-box; transform-origin:bottom; animation:grow 3.2s ease-in-out infinite alternate }
+  .sweep { transform-origin:470px 82px; animation:spin 3s linear infinite }
+  .blip { fill:#22d3ee; opacity:0; animation:blip 3s linear infinite }
+  .radar { fill:none; stroke:#1b3466 }
+  @keyframes grow { from { transform:scaleY(.35) } to { transform:scaleY(1) } }
+  @keyframes spin { to { transform:rotate(360deg) } }
+  @keyframes blip { 0%,100% { opacity:0 } 10% { opacity:1 } 40% { opacity:0 } }
+  @media (prefers-reduced-motion: reduce) { * { animation-duration:.01s !important; animation-iteration-count:1 !important } }
+</style>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#040a18"/><stop offset="1" stop-color="#0a1d42"/></linearGradient>
+  <linearGradient id="line" x1="0" x2="1"><stop offset="0" stop-color="#1d4ed8"/><stop offset=".5" stop-color="#60a5fa"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#93c5fd" opacity=".07"/></pattern>
+  <linearGradient id="barG" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#1d4ed8"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+  <linearGradient id="sw" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee" stop-opacity="0"/><stop offset="1" stop-color="#22d3ee" stop-opacity=".55"/></linearGradient>
+</defs>
+<rect class="card" x=".5" y=".5" width="589" height="229" rx="16"/>
+<text class="ct" x="28" y="52">🦀 Diskern</text>
+<text class="cd" x="28" y="84">A disk cleaner that understands your</text>
+<text class="cd" x="28" y="104">computer instead of guessing.</text>
+<text class="cd" x="28" y="124">Nothing is deleted, only quarantined.</text>
+<g class="tag"><rect x="28" y="146" width="50" height="24" rx="12"/><text x="53" y="162" text-anchor="middle">Rust</text></g><g class="tag"><rect x="86.4" y="146" width="81" height="24" rx="12"/><text x="127" y="162" text-anchor="middle">Tauri v2</text></g><g class="tag"><rect x="175.2" y="146" width="66" height="24" rx="12"/><text x="208" y="162" text-anchor="middle">BLAKE3</text></g>
+<text class="go" x="28" y="206">view repo <tspan class="arrow">→</tspan></text>
+<circle class="radar" cx="470" cy="82" r="56"/><circle class="radar" cx="470" cy="82" r="36"/><circle class="radar" cx="470" cy="82" r="16"/>
+<path class="sweep" d="M470 82 L526 82 A56 56 0 0 0 509.6 42.4 Z" fill="url(#sw)"/>
+<circle class="blip" cx="492" cy="56" r="4" style="animation-delay:.2s" filter="url(#glow)"/>
+<circle class="blip" cx="440" cy="100" r="3.5" style="animation-delay:1.4s" filter="url(#glow)"/>
+<circle class="blip" cx="486" cy="118" r="3" style="animation-delay:2.2s" filter="url(#glow)"/>
+<rect class="bar" x="392" y="150" width="12" height="46" rx="3" style="animation-delay:0.00s"/><rect class="bar" x="412" y="126" width="12" height="70" rx="3" style="animation-delay:0.15s"/><rect class="bar" x="432" y="164" width="12" height="32" rx="3" style="animation-delay:0.30s"/><rect class="bar" x="452" y="108" width="12" height="88" rx="3" style="animation-delay:0.45s"/><rect class="bar" x="472" y="138" width="12" height="58" rx="3" style="animation-delay:0.60s"/><rect class="bar" x="492" y="156" width="12" height="40" rx="3" style="animation-delay:0.75s"/><rect class="bar" x="512" y="120" width="12" height="76" rx="3" style="animation-delay:0.90s"/>
+</svg>
